@@ -43,7 +43,7 @@ Turn long YouTube videos, lectures, podcasts, and meeting recordings into summar
 ## ⚙️ How It Works
 
 <p align="center">
-  <img src="docs/architecture.svg" alt="AI Video Agent architecture" width="100%">
+  <img src="docs/architecture.png" alt="AI Video Agent architecture" width="100%">
 </p>
 
 1. **Input:** Upload a media file or provide a YouTube URL.
