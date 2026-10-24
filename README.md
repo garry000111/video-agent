@@ -31,7 +31,6 @@ Turn long YouTube videos, lectures, podcasts, and meeting recordings into summar
 
 <p align="center">
   <img src="docs/screenshots/home.png" alt="AI Video Agent home screen" width="48%">
-  <img src="docs/screenshots/results.png" alt="AI-generated video summary and insights" width="48%">
 </p>
 
 <p align="center">
