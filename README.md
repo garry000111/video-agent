@@ -30,7 +30,7 @@ Turn long YouTube videos, lectures, podcasts, and meeting recordings into summar
 <!-- Add screenshots of your actual Streamlit application in docs/screenshots/ -->
 
 <p align="center">
-  <img src="docs/home.png" alt="AI Video Agent home screen" width="48%">
+  <img src="docs/homepage.png" alt="AI Video Agent home screen" width="48%">
 </p>
 
 <p align="center">
