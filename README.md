@@ -30,11 +30,11 @@ Turn long YouTube videos, lectures, podcasts, and meeting recordings into summar
 <!-- Add screenshots of your actual Streamlit application in docs/screenshots/ -->
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="AI Video Agent home screen" width="48%">
+  <img src="docs/home.png" alt="AI Video Agent home screen" width="48%">
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/chat.png" alt="Chat with video using RAG" width="80%">
+  <img src="docs/chat.png" alt="Chat with video using RAG" width="80%">
 </p>
 
 > Replace these placeholder images with screenshots of your running application.
